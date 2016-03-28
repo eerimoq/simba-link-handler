@@ -21,6 +21,7 @@
 #include "simba.h"
 #include "link_handler.h"
 
+/** Message types. */
 #define TYPE_PAYLOAD     1
 #define TYPE_PING        2
 #define TYPE_PONG        3

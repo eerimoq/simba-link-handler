@@ -17,7 +17,6 @@
 #
 
 INC += $(LINK_HANDLER_ROOT)/src
-INC += $(LINK_HANDLER_ROOT)/src/ports/$(ARCH)/$(TOOLCHAIN)
 
 LINK_HANDLER_SRC ?= link_handler.c
 
