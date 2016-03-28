@@ -1,5 +1,5 @@
 /**
- * @file link.c
+ * @file link_handler.c
  * @version 0.2.0
  *
  * @section License

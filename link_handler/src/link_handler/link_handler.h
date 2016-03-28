@@ -134,7 +134,7 @@ int link_handler_start(struct link_handler_t *self_p);
 int link_handler_stop(struct link_handler_t *self_p);
 
 /**
- * Write data to given link. 
+ * Write data to given link handler. 
  *
  * @param[in] self_p Link handler.
  *
